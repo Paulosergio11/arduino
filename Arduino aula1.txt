@@ -1,0 +1,35 @@
+Programação com Arduino
+José de Assis
+
+Aula 1:
+
+referência:
+arduino.cc
+
+Preparação do ambiente de trabalho:
+- Placa Arduino (UNO recomandado)
+- Software Arduino
+
+sketch -> programas escritos em Arduino (baseado em C)
+extensão .ino
+
+Dica: <ctrl><t> -> alinhamento do código
+
+Ferramentas:
+Fritzing
+https://fritzing.org/home/
+
+APP
+Electrodroid
+
+Leds comuns: Usar resistores de 220 ou 330 ohms
+
+220 vermelho vermelho marrom
+330 laranja laranja marron
+
+
+delay(1000)
+1000ms = 1s
+
+
+
